@@ -1,0 +1,15 @@
+C:\Users\Naza\ucreativa programacion\talleres\07-ciclos\ciclos\obj\Debug\net6.0\ciclos.csproj.AssemblyReference.cache
+C:\Users\Naza\ucreativa programacion\talleres\07-ciclos\ciclos\obj\Debug\net6.0\ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\ucreativa programacion\talleres\07-ciclos\ciclos\obj\Debug\net6.0\ciclos.AssemblyInfoInputs.cache
+C:\Users\Naza\ucreativa programacion\talleres\07-ciclos\ciclos\obj\Debug\net6.0\ciclos.AssemblyInfo.cs
+C:\Users\Naza\ucreativa programacion\talleres\07-ciclos\ciclos\obj\Debug\net6.0\ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Naza\ucreativa programacion\talleres\07-ciclos\ciclos\bin\Debug\net6.0\ciclos.exe
+C:\Users\Naza\ucreativa programacion\talleres\07-ciclos\ciclos\bin\Debug\net6.0\ciclos.deps.json
+C:\Users\Naza\ucreativa programacion\talleres\07-ciclos\ciclos\bin\Debug\net6.0\ciclos.runtimeconfig.json
+C:\Users\Naza\ucreativa programacion\talleres\07-ciclos\ciclos\bin\Debug\net6.0\ciclos.dll
+C:\Users\Naza\ucreativa programacion\talleres\07-ciclos\ciclos\bin\Debug\net6.0\ciclos.pdb
+C:\Users\Naza\ucreativa programacion\talleres\07-ciclos\ciclos\obj\Debug\net6.0\ciclos.dll
+C:\Users\Naza\ucreativa programacion\talleres\07-ciclos\ciclos\obj\Debug\net6.0\refint\ciclos.dll
+C:\Users\Naza\ucreativa programacion\talleres\07-ciclos\ciclos\obj\Debug\net6.0\ciclos.pdb
+C:\Users\Naza\ucreativa programacion\talleres\07-ciclos\ciclos\obj\Debug\net6.0\ciclos.genruntimeconfig.cache
+C:\Users\Naza\ucreativa programacion\talleres\07-ciclos\ciclos\obj\Debug\net6.0\ref\ciclos.dll
